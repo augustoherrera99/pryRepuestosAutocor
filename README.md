@@ -1,8 +1,8 @@
-#  Registro y cálculo de ventas diarias en bar 🍺🍔
+#  Registro y consulta de mercancía para autopartista 🚗
 
 ## Descripción 🏝
 
-Aplicación de Windows Forms que permite ingresar las ventas diarias de cada mozo que atiende en el negocio para luego poder realizar cálculos que muestren la ganancia del día, dinero recaudado por mozo y por categoría.
+Aplicación Windows Forms que cumple el fin de almacenar en un archivo txt los repuestos que se comercializan en la empresa y, luego, poder consultar el precio de venta de los repuestos por su marca y origen.
 
 ## Autor ✒️
 **Augusto Herrera**
@@ -13,7 +13,7 @@ Aplicación de Windows Forms que permite ingresar las ventas diarias de cada moz
 _En desarrollo_
 
 ## Instalación 
-Clonar el repositorio, preferentemente en Visual Studio, y compilarlo para su ejecución.
+Clonar el repositorio, preferentemente en Visual Studio, mover archivo txt "Repuestos" a > Debug > Bin; y compilarlo para su ejecución.
   
 ## Contratación
 Si quieres contratarme puedes escribirme a augustofherrera@hotmail.com o comunicarte por mi [LinkedIn](https://www.linkedin.com/in/herreraaugusto/) para consultas.
